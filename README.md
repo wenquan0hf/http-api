@@ -10,4 +10,4 @@
 
 我们假设你熟悉基本的 HTTP+JSON API 设计方法，所以本篇指南并不包含所有的 API 设计基础。
 
-鸣谢：[https://github.com/ZhangBohan/http-api-design-ZH_CN/blob/master/README.md](https://github.com/ZhangBohan/http-api-design-ZH_CN/blob/master/README.md)
+鸣谢：[https://github.com/ZhangBohan/http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN)
