@@ -1,0 +1,7 @@
+{
+    "name": "HTTP API 设计指南",
+    "introduction": "本指南描述了一系列 HTTP+JSON API 的设计实践， 来自并展开于 Heroku Platform API 的工作。本指南指导着Heroku内部API的开发，我们希望也能对Heroku以外的API设计者有所帮助。",
+    "title": "HTTP API 设计指南 - 极客学院 Wiki",
+    "keywords": "JSON,HTTP API",
+    "description": "本指南描述了一系列 HTTP+JSON API 的设计实践， 来自并展开于 Heroku Platform API 的工作。本指南指导着Heroku内部API的开发，我们希望也能对Heroku以外的API设计者有所帮助。"
+}
